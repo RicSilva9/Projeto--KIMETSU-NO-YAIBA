@@ -39,7 +39,14 @@ body::before {
 .cabecalho {
     display: flex;
     justify-content: center;
-    height: 130px;
+    height: 152px; 
+    justify-content: space-between;
+}
+
+.logo-redes {
+    color: #fff; 
+    margin: auto 10px;
+    font-size: 40px;
 }
 
 .selecao-de-personagens {
